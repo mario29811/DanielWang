@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Daniel 👋
 
 Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate software developer and technology enthusiast. I love exploring new technologies and applying them to solve real-world problems. Here are a few things about me:
+Anime Lover, History Buff, A Lover of Books, and prospective Software Developer. 
 
 - 🌱 **Current Interests**: I'm deeply interested in software development, data analysis, and machine learning.
 - 🎓 **Education**: I'm currently working on my final project for CS210, which involves analyzing a dataset about employee turnover.
@@ -19,13 +19,13 @@ I'm a passionate software developer and technology enthusiast. I love exploring 
 
 ## How to Reach Me
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Email**: [mario29811@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/daniel-wang-659b98228/]
+- **Discord**: [360911559821623296]
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, C++
+- **Programming Languages**: Python, Java, JavaScript, C++, 
 - **Tools and Technologies**: Git, TensorFlow, Pandas, NumPy
 - **Areas of Expertise**: Software Development, Machine Learning, Data Analysis
 
