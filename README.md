@@ -21,7 +21,7 @@ Anime Lover, History Buff, A Lover of Books, and prospective Software Developer.
 
 - **Email**: [mario29811@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/daniel-wang-659b98228/]
-- **Discord**: [360911559821623296]
+- **Discord ID**: [360911559821623296]
 
 ## Skills
 
